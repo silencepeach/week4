@@ -1,0 +1,11 @@
+{
+  "name": "kweb_week4_hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/baemingun/kweb_week4_hw.git",
+  "author": "kimdaehwan <silencepeach@korea.ac.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
